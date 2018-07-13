@@ -1,0 +1,12 @@
+{
+	"name": "testJson",
+	"age": "12",
+	"obj": {
+		"objname": "obj",
+		"objMsg": "444444444444"
+	},
+	"arr": [
+		"arr1",
+		"arr2"
+	]
+}
